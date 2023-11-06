@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/CarSaleReact/static/css/main.4f88526e.css",
-    "main.js": "/CarSaleReact/static/js/main.7e45f3ad.js",
+    "main.js": "/CarSaleReact/static/js/main.2f13a412.js",
     "static/js/327.419d1982.chunk.js": "/CarSaleReact/static/js/327.419d1982.chunk.js",
     "static/js/5.45b8d757.chunk.js": "/CarSaleReact/static/js/5.45b8d757.chunk.js",
     "static/js/542.d2843fa0.chunk.js": "/CarSaleReact/static/js/542.d2843fa0.chunk.js",
@@ -9,7 +9,7 @@
     "static/media/Bg_home.webp": "/CarSaleReact/static/media/Bg_home.4c60543225bb973efa51.webp",
     "index.html": "/CarSaleReact/index.html",
     "main.4f88526e.css.map": "/CarSaleReact/static/css/main.4f88526e.css.map",
-    "main.7e45f3ad.js.map": "/CarSaleReact/static/js/main.7e45f3ad.js.map",
+    "main.2f13a412.js.map": "/CarSaleReact/static/js/main.2f13a412.js.map",
     "327.419d1982.chunk.js.map": "/CarSaleReact/static/js/327.419d1982.chunk.js.map",
     "5.45b8d757.chunk.js.map": "/CarSaleReact/static/js/5.45b8d757.chunk.js.map",
     "542.d2843fa0.chunk.js.map": "/CarSaleReact/static/js/542.d2843fa0.chunk.js.map",
@@ -17,6 +17,6 @@
   },
   "entrypoints": [
     "static/css/main.4f88526e.css",
-    "static/js/main.7e45f3ad.js"
+    "static/js/main.2f13a412.js"
   ]
 }
