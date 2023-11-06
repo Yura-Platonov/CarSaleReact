@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkcar_sale_react=self.webpackChunkcar_sale_react||[]).push([[542],{2542:function(e,n,r){r.r(n),r.d(n,{default:function(){return l}});var a,c=r(9434),t=r(2286),s=r(168),u=r(7109).Z.section(a||(a=(0,s.Z)(["\n  padding: 50px 0;\n"]))),i=r(5904),f=r(184),l=function(){var e=(0,c.v9)(t.ur);return(0,f.jsx)(u,{children:(0,f.jsx)(i.q,{items:e})})}}}]);
+//# sourceMappingURL=542.d2843fa0.chunk.js.map
